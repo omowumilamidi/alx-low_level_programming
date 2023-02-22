@@ -4,7 +4,7 @@
  *
  * Description: 'A programme that prints size of various computer types'
  *
- * Return;Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
