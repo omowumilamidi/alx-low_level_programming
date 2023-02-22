@@ -1,7 +1,10 @@
 # include <stdio.h>
 /**
- * main - A programme that prints size of various computer type
- * Return; 0 (Success)
+ * main - Entry point
+ *
+ * Description: 'A programme that prints size of various computer types'
+ *
+ * Return;Always 0 (Success)
  */
 int main(void)
 {
