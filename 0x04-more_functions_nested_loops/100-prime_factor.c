@@ -17,6 +17,6 @@ int main(void)
 			fp--;
 		}
 	}
-	printf("%|d\n", fp);
+	printf("%d\n", fp);
 	return (0);
 }
